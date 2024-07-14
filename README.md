@@ -1,3 +1,6 @@
+#В рамках этого проекта вам нужно сделать канбан-доску – популярный инструмент для визуализации и разбивки какой-либо задачи на этапы.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
